@@ -1,0 +1,16 @@
+version="0.1"
+tags={
+	"Alternative History"
+	"Map"
+	"Military"
+	"National Focuses"
+	"Technologies"
+	"Events"
+	"Gameplay"
+	"Utilities"
+	"Ideologies"
+	"Graphics"
+}
+name="ArmaVerse"
+supported_version="1.10.3"
+path="DocumentsPath/Hearts of Iron IV/mod/ArmaVerse"
